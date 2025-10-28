@@ -1,0 +1,47 @@
+    <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 400px; font-size: larger; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:medium;">How much does a dumpster rental cost?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Dumpster prices vary based on size, location, and debris type. We provide transparent dumpster rental prices near me in #State with zero hidden fees.</p>
+                <h4 class="template4 palooma" style="font-size:large;">What’s the most popular size?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">The 20 yard dumpster in #State is our fan favorite, it’s the perfect middle ground for volume and versatility.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Can I rent a dumpster for just one day?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Absolutely! Whether you’re looking for trash container rental, garbage bin rental, or a dumpster trailer rental, we offer flexible terms for every project.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Do you offer trailer dumpsters?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes! For those who need mobility, we provide dumpster trailer rental near me solutions.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Looking for the cheapest option?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Ask us about our cheapest dumpster rental near me or compare rates with redbox dumpster or republic dumpsters. We’ll show you why we stay ahead.</p>
+                <div class="callalooma mx-auto"><a href="tel:820218-6680">Click Here To Call Us (820) 218-6680</a></div>
+            </div>
+        </div>
+        </section>
+    </div>
+    
+    
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">States In USA</h2>
+        <div class="row">
+            aloomaidallfotter
+        </div>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Most popular cities we serve</h2>
+        <div class="row">
+            aloomaidallfottecity
+        </div>
+        </section>
+    </div>
